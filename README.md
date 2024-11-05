@@ -129,7 +129,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 Happy coding! If you have any questions or need assistance, feel free to open an issue or contact me.
 ```
 
-### Customization Tips:
-- Replace `yourusername` with your GitHub username in the clone URL.
-- Update sections based on the specific content you plan to include.
-- Consider adding screenshots or examples in your repository to make it more visually appealing.
